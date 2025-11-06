@@ -61,7 +61,7 @@ Entities include:
 ## 👩🏽‍💻 Author
 **Jemmynat Omoshalewa Oriade**  
 Power Platform Developer | Creator of **Natovate**  
-📧 Email: OJBeauty@3qdlmm.onmicrosoft.com
+📧 Email: OJBeauty@3qdlmm.onmicrosoft.com  oriadejemilat@gmail.com
 
 ---
 
