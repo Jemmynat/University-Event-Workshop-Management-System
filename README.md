@@ -15,7 +15,7 @@ Built using **Dataverse, Power Apps, Power Automate, Power Pages, and Copilot St
 ---
 
 ## 🧱 Data Model
-See: [Documentation/Natovate_UniEvent_Expanded_ERD.pdf](./Documentation/Natovate_UniEvent_Expanded_ERD.pdf)
+See: [Documentation/Natovate_UniEvent_Expanded_ERD.pdf](./Natovate_UniEvent_Expanded_ERD.pdf)
 
 Entities include:  
 `User`, `Lecturer`, `Student`, `Workshop`, `Event`, `Location`, `Registration`, `Department`, and `Notification Log`.
@@ -38,9 +38,9 @@ Entities include:
 ---
 
 ## 🧾 Documentation
-- [ERD & Data Model](./Documentation/Natovate_UniEvent_Expanded_ERD.pdf)  
-- [Functional Description](./Documentation/Functional_Description.md)  
-- [Project Timeline](./Documentation/Project_Timeline.md)
+- [ERD & Data Model](./Natovate_UniEvent_Expanded_ERD.pdf)  
+- [Functional Description](./Functional_Description.md)  
+- [Project Timeline](./Project_Timeline.md)
 
 ---
 
@@ -61,7 +61,7 @@ Entities include:
 ## 👩🏽‍💻 Author
 **Jemmynat Omoshalewa Oriade**  
 Power Platform Developer | Creator of **Natovate**  
-📧 OJBeauty@3qdlmm.onmicrosoft.com  
+📧 Email: [Jemmynat Oriade](OJBeauty@3qdlmm.onmicrosoft.com)  
 
 ---
 
